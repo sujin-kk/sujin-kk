@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujin-kkD&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujin-kk&show_icons=true&theme=dracula)
 
 <!--
 **sujin-kk/sujin-kk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
