@@ -1,5 +1,5 @@
 # sujin-kk
-```👩🏻‍💻``` _Growing android developer_
+```🌊``` _Growing Android Developer_
 
 ##### Skills & Stacks 
 
