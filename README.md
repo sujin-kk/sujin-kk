@@ -3,7 +3,7 @@
 
 ##### Skills & Stacks 
 
-<img src="https://img.shields.io/badge/Android-7382B5?&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7382B5?&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-7382B5?&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7382B5?&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-7382B5?&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/React&nbsp;Native-7382B5?&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-7382B5?&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-7382B5?&logo=Typescript&logoColor=white"/>
