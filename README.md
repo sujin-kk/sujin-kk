@@ -14,6 +14,7 @@
 ```🏫``` Konkuk University / Computer Science & Engineering (2019 ~ )<br/>
 ```💻``` UMC(Makeus) 1st @Android (2021.09 ~ 2022.01)<br/>
 ```🪅``` Depromeet 11th @Android (2022.03 ~ 2022.07)<br/>
+```🎲``` Sopt 31th @Android (2022.09 ~ 2022.12)<br/>
 ```👩🏻‍💻``` Konkuk Student Development Team 1st @Android (2022.07 ~ 2022.08)<br/>
 ```💼``` Team Mise, Front-end Development Intern (2022.01 ~ 2022.02)<br/>
 ```🏅``` 2021 Capstone Design Awards 3rd @Konkuk LINC+<br/>
